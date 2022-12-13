@@ -1,9 +1,7 @@
 Harjoitustyössä luon salt järjestelmän, jonka avulla distroa vaihtamalla voin vain ajaa salt komennon ja kaikki tarvitsemani sovellukset saadaan asennettua.  
 
 Virtuaalikoneet on asennet Fedora 36 Lenovo Legion Pro 5 kannatteavall tietokoneelle.
-```bahs
 
-```
 
 ---
 Asensin qemulle ubuntu serverin, joka toimii master koneena. Tämä siksi, että qemu ja virtual machine managerilla on olemassa NAT verkko jolla ssh yhteydet toimii virtuaalikoneiden välillä. 
@@ -1231,6 +1229,6 @@ Tämän avulla uusille minioneille voi asentaa kaikki tarvittavat ohjelmat ajama
 
 ---
 ### Lähteet
-[Tero Karvisen Palvelinhallinta kurssi](https://terokarvinen.com/2022/palvelinten-hallinta-2022p2/)
-[Automating my home network with Salt](https://viruta.org/automating-home-network-with-salt.html)
+[Tero Karvisen Palvelinhallinta kurssi](https://terokarvinen.com/2022/palvelinten-hallinta-2022p2/)  
+[Automating my home network with Salt](https://viruta.org/automating-home-network-with-salt.html)  
 [SaltStack](https://docs.saltproject.io/en/latest/topics/tutorials/states_pt3.html)
