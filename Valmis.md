@@ -305,6 +305,7 @@ tarvitut_sovellukset:
       - vim
       {% if grains['os_family'] == 'Debian' %}
       - vim
+      {% endif %}
 ```
 Koska Masterina on Ubuntu serveri ja minioni ovat Fedora ja Manjaro, sain kolmen isoimman os_familyn tietää seuraavanlaisesti:
 ```bash
@@ -1205,6 +1206,7 @@ tarvitut_sovellukset:
       - vim
       {% if grains['os_family'] == 'Debian' %}
       - vim
+      {% endif %}
       - micro
       - git
       - openssh
