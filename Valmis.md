@@ -1195,7 +1195,7 @@ Total run time:  59.010 s
 Kaikki toimii
 
 ---
-Tarkistetaan, että sovellukset asentui
+Tarkistetaan, että sovellukset asentui:  
 Zoom:  
 ![zoom](https://user-images.githubusercontent.com/92360351/207268757-50cc6c22-42d2-4ac4-8257-370b11ea2cb2.png)  
 Discord:  
