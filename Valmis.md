@@ -1195,6 +1195,18 @@ Total run time:  59.010 s
 Kaikki toimii
 
 ---
+Tarkistetaan, että sovellukset asentui
+Zoom:  
+![zoom](https://user-images.githubusercontent.com/92360351/207268757-50cc6c22-42d2-4ac4-8257-370b11ea2cb2.png)  
+Discord:  
+![Discord](https://user-images.githubusercontent.com/92360351/207268829-4f2666a4-0016-42f0-b8e4-e7cbb4d88de9.png)  
+Teams:  
+![Teams](https://user-images.githubusercontent.com/92360351/207268879-a2204a82-3e23-4287-a4cb-7c6fb91d4500.png)  
+Visual Studio Code:  
+![VSCode](https://user-images.githubusercontent.com/92360351/207268954-eac78ea5-3f54-4402-89c2-17fdcce74f9d.png)  
+Sovellukset löytyvät asennettuina
+
+---
 Saltin state.apply ohjelmat init.sls näyttää tältä:
 ```bash
 tarvitut_sovellukset:
