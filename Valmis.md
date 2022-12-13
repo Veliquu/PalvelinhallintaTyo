@@ -1231,4 +1231,5 @@ Tämän avulla uusille minioneille voi asentaa kaikki tarvittavat ohjelmat ajama
 ### Lähteet
 [Tero Karvisen Palvelinhallinta kurssi](https://terokarvinen.com/2022/palvelinten-hallinta-2022p2/)  
 [Automating my home network with Salt](https://viruta.org/automating-home-network-with-salt.html)  
-[SaltStack](https://docs.saltproject.io/en/latest/topics/tutorials/states_pt3.html)
+[SaltStack](https://docs.saltproject.io/en/latest/topics/tutorials/states_pt3.html)  
+[Antti](https://github.com/therealhalonen)
