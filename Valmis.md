@@ -1197,8 +1197,6 @@ Kaikki toimii
 
 ---
 Tarkistetaan, että sovellukset asentui:  
-Zoom:  
-![zoom](https://user-images.githubusercontent.com/92360351/207268757-50cc6c22-42d2-4ac4-8257-370b11ea2cb2.png)  
 Discord:  
 ![Discord](https://user-images.githubusercontent.com/92360351/207268829-4f2666a4-0016-42f0-b8e4-e7cbb4d88de9.png)  
 Teams:  
