@@ -293,7 +293,7 @@ Total run time:  11.944 s
  ```
 Fedora minion antoi errorina, että asennus olisi epäonnistunut, mutta vim toimii silti Fedoralla.  
 Tarkastellessani erroria, huomasin että Fedoralla vim:in package nimi ei ole vim vaan vim-enhanced.  
-[Antti ja Saltstack manualin](https://docs.saltproject.io/en/latest/topics/tutorials/states_pt3.html) avulla kokeilin if-lauseketta vimin asennukseen.
+Antin ja [Saltstack manualin](https://docs.saltproject.io/en/latest/topics/tutorials/states_pt3.html) avulla kokeilin if-lauseketta vimin asennukseen.
 Muutin siis init-sls tiedostoa näyttämään tältä:
 ```bash
 tarvitut_sovellukset:
@@ -613,7 +613,8 @@ Flatpak saatiin kummallekkin minionille, joten seuraavaksi piti saada asennettua
 
 ---
 Flatpakillä ohjelmien asentamiseen päädyin käyttämään bash skriptiä joka ajaa flatpakin asennus komennon.  
-Loin scripti tiedoston `srv/salt/ohjelmat` direktpryyn.
+Loin scripti tiedoston `srv/salt/ohjelmat` direktpryyn.  
+Flatpak pakettien nimet sain [flathubin](https://flathub.org/home) sivuilta.
 Scripti:
 ```bash
 #!/bin/bash
