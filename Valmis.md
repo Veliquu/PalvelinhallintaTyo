@@ -529,7 +529,7 @@ flatpak-flathub:
     - name: flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
     - onchanges:
       - flatpak-packages
-      - 
+       
 flatpak-packages:
   pkg.latest:
     - refresh: True
