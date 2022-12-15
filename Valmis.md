@@ -21,7 +21,7 @@ master:~$ hostname -I
 192.168.122.57
 ```
 
-Seuraavaksi asensin ensimmäisen minionin, joka toimii Fdora 36, jonka latasin [täätlä](https://getfedora.org/fi/workstation/download/). Valitsin version x86_64:lle.  Käyttäjänä minion.
+Seuraavaksi asensin ensimmäisen minionin, joka toimii Fdora 36, jonka latasin [täältä](https://getfedora.org/fi/workstation/download/). Valitsin version x86_64:lle.  Käyttäjänä minion.
 Asennuksen jälkeen päivitin järjestelmän ja asensin salt-minionin.
 ```bash
 [fedora_minion@localhost-live ~]$ sudo dnf update
